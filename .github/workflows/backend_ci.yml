@@ -1,4 +1,4 @@
-# Testing Trigger - Rashi
+# Testing Trigger - Rashi Agrawal
 # week07/.github/workflows/backend_ci.yml
 
 name: Backend CI - Test, Build and Push Images to ACR
